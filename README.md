@@ -1,5 +1,5 @@
 # DIGITAL TUNER
-Digital tuner for acoustic guitar (CodeWarrior and MATLAB GUI).
+Digital tuner for acoustic guitar with CodeWarrior and MATLAB GUI.
 
 ![Tuner_Demo_OK](https://user-images.githubusercontent.com/94148624/142054604-6eddb5e2-e52a-4379-b91e-e5a4b2e29f97.PNG)
 
